@@ -11,7 +11,7 @@ jobs:
     steps:
     - run: date
   macos:  
-    runs-on:  macos-atest
+    runs-on:  macos-latest
     steps:
     - run: date
   depends:
